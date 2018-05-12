@@ -1,0 +1,27 @@
+_repo: Holiday-Tales_25647
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25647-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilford, Florence
+    birthdate: 1836
+    gutenberg_agent_id: '31483'
+    url: http://www.gutenberg.org/2009/agents/31483
+description: Seven Campbells -- Cecil's memorable week.
+gutenberg_issued: '2008-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Seven Campbells -- Cecil's memorable week.
+title: Holiday Tales
+url: http://www.gutenberg.org/ebooks/25647
