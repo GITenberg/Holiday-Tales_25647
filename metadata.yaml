@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31483'
     url: http://www.gutenberg.org/2009/agents/31483
 description: Seven Campbells -- Cecil's memorable week.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25647#Holiday-Tales
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
 identifiers:
